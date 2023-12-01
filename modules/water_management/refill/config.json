@@ -1,0 +1,9 @@
+{
+    "cooldown": 14400,
+    
+    "chemicals": {
+            "grow": 3,
+            "micro": 3,
+            "bloom": 3
+    }
+}

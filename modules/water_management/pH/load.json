@@ -1,0 +1,8 @@
+{
+    "update_requirements": ["refill"],
+    "working_directory": "water_management",
+    "class_file": "pH.py",
+    "class_name": "pH",
+    "activate_on_start": false
+
+}

@@ -1,0 +1,79 @@
+{   
+    "controllers": {
+        "dosing_pumps": {
+            "1":{
+                "pin": "A 0",
+                "mlps": 1,
+                "liquid": ""
+            },
+            "2":{
+                "pin": "A 2",
+                "mlps": 1,
+                "liquid": "pHUp"
+            },
+            "3":{
+                "pin": "A 4",
+                "mlps": 1,
+                "liquid": "pHDown"
+            },
+            "4":{
+                "pin": "A 6",
+                "mlps": 1,
+                "liquid": ""
+            },
+            "5":{
+                "pin": "A 8",
+                "mlps": 1,
+                "liquid": ""
+            },
+            "6":{
+                "pin": "A 10",
+                "mlps": 1,
+                "liquid": "micro"
+            },
+            "7":{
+                "pin": "A 12",
+                "mlps": 1,
+                "liquid": "bloom"
+            },
+            "8":{
+                "pin": "A 14",
+                "mlps": 1,
+                "liquid": ""
+            },
+            "9":{
+                "pin": "B 0",
+                "mlps": 1,
+                "liquid": ""
+            },
+            "10":{
+                "pin": "B 2",
+                "mlps": 1,
+                "liquid": "grow"
+            },
+            "11":{
+                "pin": "B 4",
+                "mlps": 1,
+                "liquid": ""
+            },
+            "12":{
+                "pin": "B 6",
+                "mlps": 1,
+                "liquid": ""
+            }
+        },
+        "normal": {
+            "resevoir mix": {
+                "pin": 24
+            },
+            "refill pump": {
+                "pin": 23,
+                "GPH": 80
+            },
+            "recirculating pump": {
+                "pin": 18,
+                "time_to_drain" : 100
+            }
+        }
+    }
+}

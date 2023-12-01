@@ -1,0 +1,66 @@
+
+{
+    "water_per_kg_dry_mass": 300,
+    "chemicals": {
+        "NH4H2PO4": {
+            "molar_mass": 115.03,
+            "molarity": 1,
+            "release": [ ["N", 1], ["PO4", 1]]
+        },
+        "KNO3": {
+            "molar_mass": 101.1032,
+            "molarity": 1,
+            "release": [ ["K", 1], ["N", 1] ]
+        },
+        "Ca(NO3)2": {
+            "molar_mass": 164.1,
+            "molarity": 1,
+            "release": [ ["Ca", 1], ["N", 2]]
+        },
+        "MgSO4": {
+            "molar_mass": 120.366,
+            "molarity": 1,
+            "release": [ ["Mg", 1], ["S", 1]]
+        },
+        
+        "H3BO3": {
+            "molar_mass": 61.83,
+            "mass": 2.86,
+            "release": [ ["B", 1] ]
+        },
+        "MnCl2 4H2O":{
+            "molar_mass": 197.91,
+            "mass": 1.81,
+            "release": [ ["Mn", 1], ["Cl", 2]]
+        },
+        "ZnSO4 7H2O":{
+            "molar_mass": 287.54,
+            "mass": 0.22,
+            "release": [ ["Zn", 1], ["S", 1] ]
+        },  
+        "CuSO4 5H2O":{
+            "molar_mass": 159.609,
+            "mass": 0.08,
+            "release": [ ["Cu", 1], ["S", 1] ]
+        },  
+        "H2MoO4 H2O":{
+            "molar_mass": 179.97,
+            "mass": 0.02,
+            "release": [ ["Mo", 1] ]
+        }
+    },
+    "salts": {
+        "N": "7.5 mm",
+        "P": "0.5 mm",
+        "K": "3 mm",
+        "Ca": "2 mm",
+        "Mg": "1 mm",
+        "S": "1 mm",
+        "Mn": "4.5 um",
+        "B": "23 um",
+        "Zn": "0.4 um",
+        "Cu": "0.15 um",
+        "Mo": "0.05 um",
+        "Cl": "9 um"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "low": 5.3,
+    "high": 6.5,
+    "stable_count": 8,
+    "cooldown": 10,
+    "error_n": 0.1,
+    "dosing": {
+        "dose_ml": 1
+    }
+}

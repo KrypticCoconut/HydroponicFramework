@@ -1,0 +1,9 @@
+{
+    "update_requirements": [],
+    "working_directory": "water_management",
+    "class_file": "refill.py",
+    "class_name": "Refill",
+    "activate_on_start": false
+
+
+}
